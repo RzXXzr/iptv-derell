@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="lokal",ANTV HD (1)
+https://iptv.derells.my.id/stream=376.ts
+#EXTINF:-1 tvg-logo="https://transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="lokal",ANTV HD (2)
+https://iptv2.derells.my.id/stream=131.ts
+#EXTINF:-1 tvg-logo="https://transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="lokal",ANTV HD (3)
+https://iptv3.derells.my.id/stream=106.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="News",BN CHANNEL (1)
+https://iptv.derells.my.id/stream=367.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="News",BN CHANNEL (2)
+https://iptv2.derells.my.id/stream=121.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="News",BN CHANNEL (3)
+https://iptv3.derells.my.id/stream=98.ts
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="News",BTV (1)
+https://iptv.derells.my.id/stream=380.ts
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="News",BTV (2)
+https://iptv2.derells.my.id/stream=135.ts
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="News",BTV (3)
+https://iptv3.derells.my.id/stream=110.ts
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Business",CNBC INDONESIA HD (1)
+https://iptv.derells.my.id/stream=384.ts
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Business",CNBC INDONESIA HD (2)
+https://iptv2.derells.my.id/stream=138.ts
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Business",CNBC INDONESIA HD (3)
+https://iptv3.derells.my.id/stream=112.ts
+#EXTINF:-1 tvg-logo="https://transtv.co.id/layout/new/src/images/tv/CNN%20TV%20live%20streaming%20tv.jpg" group-title="News",CNN INDONESIA HD (1)
+https://iptv.derells.my.id/stream=383.ts
+#EXTINF:-1 tvg-logo="https://transtv.co.id/layout/new/src/images/tv/CNN%20TV%20live%20streaming%20tv.jpg" group-title="News",CNN INDONESIA HD (2)
+https://iptv2.derells.my.id/stream=136.ts
+#EXTINF:-1 tvg-logo="https://transtv.co.id/layout/new/src/images/tv/CNN%20TV%20live%20streaming%20tv.jpg" group-title="News",CNN INDONESIA HD (3)
+https://iptv3.derells.my.id/stream=111.ts
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="General",GARUDA TV (1)
+https://iptv.derells.my.id/stream=365.ts
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="General",GARUDA TV (2)
+https://iptv2.derells.my.id/stream=125.ts
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="General",GARUDA TV (3)
+https://iptv3.derells.my.id/stream=94.ts
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg" group-title="General",GTV HD (1)
+https://iptv.derells.my.id/stream=387.ts
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg" group-title="General",GTV HD (2)
+https://iptv2.derells.my.id/stream=143.ts
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://imtv.indomedia.com.au/wp-content/uploads/2018/04/IMTV_Video-Watermark.png" group-title="General",IMTV (1)
+https://iptv.derells.my.id/stream=369.ts
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://imtv.indomedia.com.au/wp-content/uploads/2018/04/IMTV_Video-Watermark.png" group-title="General",IMTV (2)
+https://iptv2.derells.my.id/stream=123.ts
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://imtv.indomedia.com.au/wp-content/uploads/2018/04/IMTV_Video-Watermark.png" group-title="General",IMTV (3)
+https://iptv3.derells.my.id/stream=100.ts
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg" group-title="General",INDOSIAR HD (1)
+https://iptv.derells.my.id/stream=359.ts
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg" group-title="General",INDOSIAR HD (2)
+https://iptv2.derells.my.id/stream=114.ts
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg" group-title="General",INDOSIAR HD (3)
+https://iptv3.derells.my.id/stream=89.ts
+#EXTINF:-1 tvg-id="INews.id" tvg-logo="https://transtv.co.id/live/streaming-tv/inews" group-title="News"INews HD (1)
+https://iptv.derells.my.id/stream=388.ts
+#EXTINF:-1 tvg-id="INews.id" tvg-logo="https://transtv.co.id/live/streaming-tv/inews" group-title="News"INews HD (2)
+https://iptv2.derells.my.id/stream=144.ts
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="News",Jawapos TV (1)
+https://iptv.derells.my.id/stream=370.ts
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="News",Jawapos TV (2)
+https://iptv2.derells.my.id/stream=124.ts
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="News",Jawapos TV (3)
+https://iptv3.derells.my.id/stream=101.ts
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="News",KOMPASTV HD (1)
+https://iptv.derells.my.id/stream=362.ts
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="News",KOMPASTV HD (2)
+https://iptv2.derells.my.id/stream=117.ts
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="News",KOMPASTV HD (3)
+https://iptv3.derells.my.id/stream=92.ts
+#EXTINF:-1 tvg-id="MENTARITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="General",MENTARI HD (1)
+https://iptv.derells.my.id/stream=361.ts
+#EXTINF:-1 tvg-id="MENTARITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="General",MENTARI HD (2)
+https://iptv2.derells.my.id/stream=116.ts
+#EXTINF:-1 tvg-id="MENTARITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="General",MENTARI HD (3)
+https://iptv3.derells.my.id/stream=91.ts
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",METROTV HD (1)
+https://iptv.derells.my.id/stream=366.ts
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",METROTV HD (2)
+https://iptv2.derells.my.id/stream=120.ts
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",METROTV HD (3)
+https://iptv3.derells.my.id/stream=97.ts
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg" group-title="General",MNCTV HD (1)
+https://iptv.derells.my.id/stream=386.ts
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg" group-title="General",MNCTV HD (2)
+https://iptv2.derells.my.id/stream=140.ts
+#EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://transtv.co.id/livetv/anytv/MOJI-TV-live-streaming-tv1.jpg" group-title="General",MOJI HD (1)
+https://iptv.derells.my.id/stream=360.ts
+#EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://transtv.co.id/livetv/anytv/MOJI-TV-live-streaming-tv1.jpg" group-title="General",MOJI HD (2)
+https://iptv2.derells.my.id/stream=115.ts
+#EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://transtv.co.id/livetv/anytv/MOJI-TV-live-streaming-tv1.jpg" group-title="General",MOJI HD (3)
+https://iptv3.derells.my.id/stream=90.ts
+#EXTINF:-1 tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png" group-title="Undefined",MTA TV (3)
+https://iptv3.derells.my.id/stream=81.ts
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="General",NET.HD (1)
+https://iptv.derells.my.id/stream=377.ts
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="General",NET.HD (2)
+https://iptv2.derells.my.id/stream=132.ts
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="General",NET.HD (3)
+https://iptv3.derells.my.id/stream=107.ts
+#EXTINF:-1 tvg-id="NUSANTARATV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-THH5gaT4O6JD--4wh-OOKw_FLA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="Undefined",NUSANTARA TV (1)
+https://iptv.derells.my.id/stream=371.ts
+#EXTINF:-1 tvg-id="NUSANTARATV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-THH5gaT4O6JD--4wh-OOKw_FLA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="Undefined",NUSANTARA TV (2)
+https://iptv2.derells.my.id/stream=126.ts
+#EXTINF:-1 tvg-id="NUSANTARATV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-THH5gaT4O6JD--4wh-OOKw_FLA=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="Undefined",NUSANTARA TV (3)
+https://iptv3.derells.my.id/stream=95.ts
+#EXTINF:-1 tvg-id="RCTIHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="General",RCTI HD (1)
+https://iptv.derells.my.id/stream=385.ts
+#EXTINF:-1 tvg-id="RCTIHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/RCTI_live_streaming_tv.jpg" group-title="General",RCTI HD (2)
+https://iptv2.derells.my.id/stream=141.ts
+#EXTINF:-1 tvg-id="RTVHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/RTV_live_streaming_tv.jpg" group-title="General",RTV HD (1)
+https://iptv.derells.my.id/stream=368.ts
+#EXTINF:-1 tvg-id="RTVHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/RTV_live_streaming_tv.jpg" group-title="General",RTV HD (2)
+https://iptv2.derells.my.id/stream=122.ts
+#EXTINF:-1 tvg-id="RTVHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/RTV_live_streaming_tv.jpg" group-title="General",RTV HD (3)
+https://iptv3.derells.my.id/stream=99.ts
+#EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="TVLocal",SCTV HD (1)
+https://iptv.derells.my.id/stream=358.ts
+#EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="TVLocal",SCTV HD (2)
+https://iptv2.derells.my.id/stream=113.ts
+#EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="https://transtv.co.id/livetv/anytv/SCTV_live_streaming_tv.jpg" group-title="TVLocal",SCTV HD (3)
+https://iptv3.derells.my.id/stream=88.ts
+#EXTINF:-1 tvg-id="TRANS7HD.id" tvg-logo="https://transtv.co.id/layout/new/src/images/tv/TRANS7%20live%20streaming%20tv.jpg" group-title="General",TRANS 7 HD (1)
+https://iptv.derells.my.id/stream=382.ts
+#EXTINF:-1 tvg-id="TRANS7HD.id" tvg-logo="https://transtv.co.id/layout/new/src/images/tv/TRANS7%20live%20streaming%20tv.jpg" group-title="General",TRANS 7 HD (2)
+https://iptv2.derells.my.id/stream=137.ts
+#EXTINF:-1 tvg-id="TRANS7HD.id" tvg-logo="https://transtv.co.id/layout/new/src/images/tv/TRANS7%20live%20streaming%20tv.jpg" group-title="General",TRANS 7 HD (3)
+https://iptv3.derells.my.id/stream=113.ts
+#EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-logo="https://transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="General",TRANS TV HD (1)
+https://iptv.derells.my.id/stream=381.ts
+#EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-logo="https://transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="General",TRANS TV HD (2)
+https://iptv2.derells.my.id/stream=139.ts
+#EXTINF:-1 tvg-id="TRANSTVHD.id" tvg-logo="https://transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="General",TRANS TV HD (3)
+https://iptv3.derells.my.id/stream=114.ts
+#EXTINF:-1 tvg-id="TVKU.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="General",TVKU (3)
+https://iptv3.derells.my.id/stream=83.ts
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="News",TVONE HD (1)
+https://iptv.derells.my.id/stream=379.ts
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="News",TVONE HD (2)
+https://iptv2.derells.my.id/stream=134.ts
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="News",TVONE HD (3)
+https://iptv3.derells.my.id/stream=109.ts
+#EXTINF:-1 tvg-id="TVRICentralJava.id" tvg-logo="https://i.imgur.com/FLrmZvc.png" group-title="lokal",TVRI JAWA TENGAH (1)
+https://iptv.derells.my.id/stream=372.ts
+#EXTINF:-1 tvg-id="TVRICentralJava.id" tvg-logo="https://i.imgur.com/FLrmZvc.png" group-title="lokal",TVRI JAWA TENGAH (2)
+https://iptv2.derells.my.id/stream=127.ts
+#EXTINF:-1 tvg-id="TVRICentralJava.id" tvg-logo="https://i.imgur.com/FLrmZvc.png" group-title="lokal",TVRI JAWA TENGAH (3)
+https://iptv3.derells.my.id/stream=77.ts
+#EXTINF:-1 tvg-id="TVRICentralJava.id" tvg-logo="https://i.imgur.com/FLrmZvc.png" group-title="lokal",TVRI JAWA TENGAH HD (3)
+https://iptv3.derells.my.id/stream=102.ts
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional (1)
+https://iptv.derells.my.id/stream=374.ts
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional (2)
+https://iptv2.derells.my.id/stream=128.ts
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional (3)
+https://iptv3.derells.my.id/stream=103.ts
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Nasional HD (3)
+https://iptv3.derells.my.id/stream=78.ts
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/339px-TVRI_Sport_2022.svg.png" group-title="lokal",TVRI Sport (1)
+https://iptv.derells.my.id/stream=375.ts
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/339px-TVRI_Sport_2022.svg.png" group-title="lokal",TVRI Sport (2)
+https://iptv2.derells.my.id/stream=130.ts
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/339px-TVRI_Sport_2022.svg.png" group-title="lokal",TVRI Sport (3)
+https://iptv3.derells.my.id/stream=105.ts
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/799px-TVRIWorld.png" group-title="lokal",TVRI World (1)
+https://iptv.derells.my.id/stream=373.ts
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/799px-TVRIWorld.png" group-title="lokal",TVRI World (2)
+https://iptv2.derells.my.id/stream=129.ts
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/799px-TVRIWorld.png" group-title="lokal",TVRI World (3)
+https://iptv3.derells.my.id/stream=84.ts
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/799px-TVRIWorld.png" group-title="lokal",TVRI World HD (3)
+https://iptv3.derells.my.id/stream=104.ts
+#EXTINF:-1 tvg-id="VTVHD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/200px-VTV_Indonesia_2023.svg.png" group-title="General",VTV HD (1)
+https://iptv.derells.my.id/stream=378.ts
+#EXTINF:-1 tvg-id="VTVHD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/200px-VTV_Indonesia_2023.svg.png" group-title="General",VTV HD (2)
+https://iptv2.derells.my.id/stream=133.ts
+#EXTINF:-1 tvg-id="VTVHD.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/200px-VTV_Indonesia_2023.svg.png" group-title="General",VTV HD (3)
+https://iptv3.derells.my.id/stream=108.ts
